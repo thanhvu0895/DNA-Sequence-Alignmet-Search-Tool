@@ -1,0 +1,60 @@
+Query #0, Num Matches: 4
+Human herpesvirus 6A, complete genome 
+  In Query: 0
+  In Database: (75, 1695)
+  Length: 167
+Human herpesvirus 6A, complete genome 
+  In Query: 0
+  In Database: (75, 152929)
+  Length: 167
+Papiine herpesvirus 2, complete genome 
+  In Query: 125
+  In Database: (84, 85585)
+  Length: 15
+Cercopithecine herpesvirus 2, complete genome 
+  In Query: 125
+  In Database: (88, 83648)
+  Length: 15
+
+Query #1, Num Matches: 4
+Tobacco bushy top virus satellite-like RNA, complete genome 
+  In Query: 0
+  In Database: (4, 295)
+  Length: 215
+Human herpesvirus 5, complete genome 
+  In Query: 31
+  In Database: (78, 191823)
+  Length: 15
+Gallid herpesvirus 2, complete genome 
+  In Query: 139
+  In Database: (82, 100194)
+  Length: 15
+Human herpesvirus 5, complete genome 
+  In Query: 196
+  In Database: (78, 114249)
+  Length: 16
+
+Query #2, Num Matches: 4
+Torque teno virus 27, complete genome 
+  In Query: 0
+  In Database: (45, 1201)
+  Length: 373
+Torque teno virus 28, complete genome 
+  In Query: 17
+  In Database: (47, 1140)
+  Length: 18
+Equid herpesvirus 9, complete genome 
+  In Query: 68
+  In Database: (76, 102405)
+  Length: 15
+Equid herpesvirus 1, complete genome 
+  In Query: 68
+  In Database: (98, 102880)
+  Length: 15
+
+Query #3, Num Matches: 1
+Porcine respiratory and reproductive syndrome virus, complete genome 
+  In Query: 0
+  In Database: (49, 8970)
+  Length: 552
+
