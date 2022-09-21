@@ -1,7 +1,8 @@
 # DNA Sequence Alignmet Search Tool
 
-This is a DNA Analysis Utility that performs a simple version of BLAST algorithm to find regions of local similarity between DNA sequences, built on Java.  
+http://www.cs.kzoo.edu/cs210/projects/DNASequenceMatching/BLASTppWithDesign.html  
 
+This is a DNA Analysis Utility that performs a simple version of BLAST algorithm to find regions of local similarity between DNA sequences, built on Java.  
 ![BLAST](https://user-images.githubusercontent.com/75138396/191390339-b5be3ad4-1a0f-47dc-a17d-7a5aab4b3f07.png)
 
 ### Contributors:
@@ -28,7 +29,7 @@ This project reads DNA sequences from files and stores them to the database. It 
 
 ### Usage  
 
-Run BlastApplication
+Make sure you have Java environment, Run BlastApplication and it will automatically read from the testData file (.txt) and implement Blast Algorithm on these samples. Results will be printed on console log.
  
  
 #TODO: 
