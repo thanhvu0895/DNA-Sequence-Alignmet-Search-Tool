@@ -33,13 +33,12 @@ Make sure you have Java environment, Run BlastApplication and you will be prompt
  
 ### Sample Result:
 
-DNA DATA:
+DNA DATA:  
 ![image](https://user-images.githubusercontent.com/75138396/191403555-f4de1f7d-9f98-488a-b3b1-90d49297ddfd.png)
-
-Result from analyzing DNA data with match size = 7:
+  
+Result from analyzing DNA data with match size = 7:  
 ![image](https://user-images.githubusercontent.com/75138396/191403009-1ebc16a9-7440-4f03-af60-5d413ba58edf.png)
-
- 
+  
 ### TODO: 
 Decide on exactly what file types are acceptable ❌
 
