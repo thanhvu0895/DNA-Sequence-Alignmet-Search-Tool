@@ -34,7 +34,7 @@ Make sure you have Java environment, Run BlastApplication and you will be prompt
 ### Sample Result:
 
 DNA DATA:  
-![image](https://user-images.githubusercontent.com/75138396/191403555-f4de1f7d-9f98-488a-b3b1-90d49297ddfd.png)
+![image](https://user-images.githubusercontent.com/75138396/191403683-3f28d52d-8b8b-4353-a9c1-d6c27142b3fa.png)
   
 Result from analyzing DNA data with match size = 7:  
 ![image](https://user-images.githubusercontent.com/75138396/191403009-1ebc16a9-7440-4f03-af60-5d413ba58edf.png)
